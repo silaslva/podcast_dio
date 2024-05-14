@@ -1,6 +1,6 @@
 # Podcast - DataTrek: Explorando a Galáxia dos Dados
 <p align="center">
-    <img width="400" src="./images/Slide1.png">
+    <img width="400" src="./data/capa1.png">
 </p>
 
 
@@ -10,6 +10,8 @@ Esse projeto foi uma realização do Bootcamp Santander 2024 em IA com a DIO
 
 Podcast inteiro produzido com auxilio de IA's! De verdade esse foi um projeto bem interessante, pois vemos como conseguimos produzir conteúdos completamente inéditos e muito bem feitos com auxílio das inteligências artificiais. Desde a concepção do seu nome até os retoques finais do audio, muito obrigado e aproveite :)
 
+## 🔊 Escute aqui o 1 Episódio 🔊
+[[Play Audio]](./data/audio.mp3)
 
 
 ## 🛠️ Tecnologias Utilizadas
@@ -52,14 +54,13 @@ Obs: houve vários outros códigos de refinamento, explicações e etc
 
 
 ## 📚 Materiais e Recursos
-- [Artigo](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/blob/main/ebook%20%26%20template/ebook.pdf)
-- [Template](https://github.com/silaslva/ebook-Guardioes-da-Estrutura/tree/main/ebook%20%26%20template)
+- [Imagens](https://github.com/silaslva/podcast_dio/tree/main/data)
 - [Notion Completo](https://ethereal-gosling-647.notion.site/PAS-DataTrek-Explorando-a-Gal-xia-dos-Dados-37e7ab782d3943029a782c27606b244a?pvs=4)
 
 ## 📌 Localização
 
-- Imagem utilizada em `images`
-- Audio utilizado em 'audio'
+- Imagem utilizada em `data`
+- Audio utilizado em `data`
 
 ## 🛠️ Instruções de execução
 
