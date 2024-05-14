@@ -29,19 +29,19 @@ O podcast vai falar sobre dicas e novidades sobre o mundo de data science e data
 
 {REGRAS} 
 
-1. - O nome deve ser enxuto, um nome e um subtítulo
+1.  O nome deve ser enxuto, um nome e um subtítulo
 
-2. - O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Batman Arkham, star trek, The Watchman
+2.  O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como Batman Arkham, star trek, The Watchman
 
-3. - O nome deve conter alguma palavra forte que remeta a dados
+3.  O nome deve conter alguma palavra forte que remeta a dados
 
-4. - O podcast vai abranger Python, SQL, Excel, Power Bi e todas outras ferramentas que envolva extração, manipulação e demonstração de dados
+4.  O podcast vai abranger Python, SQL, Excel, Power Bi e todas outras ferramentas que envolva extração, manipulação e demonstração de dados
 
 
 {REGRAS NEGATIVAS}
 
-1. - Não quero que utilize nenhuma das palavras nessa lista: programador
-2. - Não utilize a palavras óbvias demais no nome nem
+1.  Não quero que utilize nenhuma das palavras nessa lista: programador
+2.  Não utilize a palavras óbvias demais no nome nem
 
 
 Obs: houve vários outros códigos de refinamento, explicações e etc
