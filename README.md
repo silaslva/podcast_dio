@@ -11,7 +11,7 @@ Esse projeto foi uma realização do Bootcamp Santander 2024 em IA com a DIO
 Podcast inteiro produzido com auxilio de IA's! De verdade esse foi um projeto bem interessante, pois vemos como conseguimos produzir conteúdos completamente inéditos e muito bem feitos com auxílio das inteligências artificiais. Desde a concepção do seu nome até os retoques finais do audio, muito obrigado e aproveite :)
 
 ## 🔊 Escute aqui o 1 Episódio 🔊
-[[Play Audio]](./data/audio.mp3)
+[[Play Audio]](./data/audio.MP3)
 
 
 ## 🛠️ Tecnologias Utilizadas
